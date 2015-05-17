@@ -1,0 +1,11 @@
+{
+  "name": "Kumoconnect",
+  "description": "CLOUD INFRASTRUCTURE FOR KUMO CONNECT",
+  "author": "PHANEENDRA BRAHMADEVARA <phani@kumoconnect.com>",
+  "version": "0.0.1",
+  "dependencies": {
+
+  },
+  "devDependencies": {},
+  "engine": "node >= 0.6.6"
+}
